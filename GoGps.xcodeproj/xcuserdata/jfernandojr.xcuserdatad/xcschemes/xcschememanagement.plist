@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GoGPS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>44FE10B41C4D343100B2E8C3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>44FE10C81C4D343100B2E8C3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>44FE10D31C4D343200B2E8C3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
